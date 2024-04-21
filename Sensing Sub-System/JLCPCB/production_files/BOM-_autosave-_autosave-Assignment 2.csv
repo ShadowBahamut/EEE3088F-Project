@@ -1,0 +1,14 @@
+Comment,Designator,Footprint,LCSC
+BPV22NF,"D2,D3,D4",XDCR_BPV22NF,C130226
+22nF,"C1,C2,C3",C_0603_1608Metric,C21122
+2M,"R5,R6,R7",R_0603_1608Metric,C22976
+33,"R1,R2,R3",R_0603_1608Metric,C23140
+TSAL6200,"D1,D5,D6",LED_D5.0mm_Horizontal_O6.35mm_Z15.0mm,C55528
+LM324DT,U1,SOIC127P600X175-14N,C71035
+C9634,"Q1,Q2,Q3",SOT-89-3,C9634
+TestPoint,Sense3,TestPoint_Pad_D2.0mm,
+TestPoint,Sense2,TestPoint_Pad_D2.0mm,
+TestPoint,Sense1,TestPoint_Pad_D2.0mm,
+TestPoint,Analogue3,TestPoint_Pad_D2.0mm,
+TestPoint,Analogue2,TestPoint_Pad_D2.0mm,
+TestPoint,Analogue1,TestPoint_Pad_D2.0mm,
